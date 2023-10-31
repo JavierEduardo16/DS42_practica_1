@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Convertidor</string>
+
+    <string-array name="spinner">
+        <item>°C a °F</item>
+        <item>°C a °K</item>
+        <item>°F a °K</item>
+        <item>°F a °C</item>
+        <item>°K a °C</item>
+        <item>°K a °F</item>
+    </string-array>
+</resources>
